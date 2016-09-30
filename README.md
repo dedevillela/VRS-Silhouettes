@@ -19,7 +19,6 @@ Feel free to download and share these files, suggest corrections, or send reques
 
 [![VRS Operator Flags](http://b.repl.ca/v1/VRS-Operator_Flags-red.png)](https://github.com/dedevillela/VRS-Operator-Flags)
 
+[![VRS Custom Links](http://b.repl.ca/v1/VRS-Custom_Links-yellow.png)](https://github.com/dedevillela/VRS-Custom-links/)
+
 [![VRS Country Flags](http://b.repl.ca/v1/VRS-Country_Flags-green.png)](https://github.com/dedevillela/VRS-Country-Flags)
-
-
-
