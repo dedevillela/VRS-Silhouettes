@@ -1,5 +1,5 @@
 # VRS-Silhouettes [![MIT License](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE) [![VRS version 2.4](https://img.shields.io/badge/VRS_version-2.4-blue.svg)](http://virtualradarserver.co.uk/Download.aspx) [![ADS-B Mode-S](https://img.shields.io/badge/ADS--B-Mode--S-lightgrey.svg)](#)
-Custom silhouettes for [Virtual Radar Server](https://www.virtualradarserver.co.uk "Virtual Radar Server's Homepage") (a.k.a. VRS).
+Custom silhouettes for [Virtual Radar Server](http://www.virtualradarserver.co.uk "Virtual Radar Server's Homepage") (a.k.a. VRS).
 
 ##Prerequisites
 - VRS installed and running
