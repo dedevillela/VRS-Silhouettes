@@ -5,14 +5,15 @@ Custom silhouettes for [Virtual Radar Server](http://www.virtualradarserver.co.u
 - VRS installed and running
 
 ##Instructions
-
 - Clone or download the repo into a directory on the machine where VRS is running. Ensure you do not place the files under the Virtual Radar Server directory, since they could be overwritten on upgrades.
 - Copy the desired files contained in the 'Silhouettes' folder you've just downloaded, and paste them in your VRS 'Silhouettes' folder.
 - Clear your browser cache.
 - Enjoy!
 
-##Contributions
+##Acknowledgments
+This project was only possible thanks to the invaluable help of many individuals and communities, especially the creator of the VRS, Andrew Whewell, always solicitous in [his forum](https://forum.virtualradarserver.co.uk/); Andrew Hill, whose [flights.hillhome.org](http://flights.hillhome.org/) site inspired me deeply; and all of the [ADS-B Brasil](http://bradsb.com/forum/index.php) community, including Ramon Martins and Jaime Hempke, which together maintain the excellent site [TrafegoAereo.com](http://trafegoaereo.com/).
 
+##Contributions
 Feel free to download and share these files, suggest corrections, or send requests for more country flags, as I'm constantly updating this repository until all countries are available.
 
 ##Other Projects
