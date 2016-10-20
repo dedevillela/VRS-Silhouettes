@@ -1,4 +1,4 @@
-# VRS-Silhouettes [![MIT License](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE) [![VRS version 2.4](https://img.shields.io/badge/VRS-v2.4-blue.svg)](http://virtualradarserver.co.uk/Download.aspx) [![Build Status](https://scrutinizer-ci.com/g/dedevillela/VRS-Silhouettes/badges/build.png?b=master)](https://scrutinizer-ci.com/g/dedevillela/VRS-Silhouettes/build-status/master)
+# VRS-Silhouettes [![MIT License](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE) [![VRS version 2.4](https://img.shields.io/badge/VRS-v2.4-blue.svg)](http://virtualradarserver.co.uk/Download.aspx) [![Build Status](https://scrutinizer-ci.com/g/dedevillela/VRS-Silhouettes/badges/build.png?b=master)](https://scrutinizer-ci.com/g/dedevillela/VRS-Silhouettes/build-status/master) [![GitHub release](https://img.shields.io/github/release/dedevillela/VRS-Silhouettes.svg)]()
 Custom silhouettes for [Virtual Radar Server](http://www.virtualradarserver.co.uk "Virtual Radar Server's Homepage") (a.k.a. VRS).
 
 ##Prerequisites
@@ -14,7 +14,7 @@ Custom silhouettes for [Virtual Radar Server](http://www.virtualradarserver.co.u
 This project was only possible thanks to the invaluable help of many individuals and communities, especially the creator of the VRS, Andrew Whewell, always solicitous in [![his forum](https://img.shields.io/badge/VRS-Forum-blue.svg)](https://forum.virtualradarserver.co.uk/); Andrew Hill, whose [![flights.hillhome.org](https://img.shields.io/badge/flights-hillhome.org-ADD6FF.svg)](http://flights.hillhome.org/) site inspired me deeply; and all of the [![ADS-B Brasil](https://img.shields.io/badge/ADS--B-Brasil-lightgrey.svg)](http://bradsb.com/forum/index.php) community, including Ramon Martins and Jaime Hempke, which together maintain the excellent site [![TrafegoAereo.com](https://img.shields.io/badge/Trafego-Aereo-yellowgreen.svg)](http://trafegoaereo.com/).
 
 ##Contributions
-Feel free to download and share these files, suggest corrections, or send requests for more country flags, as I'm constantly updating this repository until all countries are available.
+Feel free to download and share these files, suggest corrections, or send requests for more silhouettes, as I'm constantly updating this repository.
 
 ##Other Projects
 
