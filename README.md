@@ -1,4 +1,4 @@
-# VRS-Silhouettes [![MIT License](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE) [![VRS version 2.4](https://img.shields.io/badge/VRS-v2.4-blue.svg)](http://virtualradarserver.co.uk/Download.aspx) [![Build Status](https://scrutinizer-ci.com/g/dedevillela/VRS-Silhouettes/badges/build.png?b=master)](https://scrutinizer-ci.com/g/dedevillela/VRS-Silhouettes/build-status/master) [![GitHub release](https://img.shields.io/github/release/dedevillela/VRS-Silhouettes.svg)]()
+# VRS-Silhouettes ✈️ [![MIT License](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE) [![VRS version 2.4](https://img.shields.io/badge/VRS-v2.4-blue.svg)](http://virtualradarserver.co.uk/Download.aspx) [![Build Status](https://scrutinizer-ci.com/g/dedevillela/VRS-Silhouettes/badges/build.png?b=master)](https://scrutinizer-ci.com/g/dedevillela/VRS-Silhouettes/build-status/master) [![GitHub release](https://img.shields.io/github/release/dedevillela/VRS-Silhouettes.svg)]()
 Custom silhouettes for [Virtual Radar Server](http://www.virtualradarserver.co.uk "Virtual Radar Server's Homepage") (a.k.a. VRS).
 
 ##Prerequisites
