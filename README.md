@@ -7,7 +7,8 @@ Custom silhouettes for [Virtual Radar Server](http://www.virtualradarserver.co.u
 ##Instructions
 - Clone or download the repo into a directory on the machine where VRS is running. Ensure you do not place the files under the Virtual Radar Server directory, since they could be overwritten on upgrades.
 - Copy the desired files contained in the 'Silhouettes' folder you've just downloaded, and paste them in your VRS 'Silhouettes' folder.
-- Clear your browser cache.
+- With the Custom Content Plugin enabled on VRS, go to "Tools>Plugins..." and press the "Options" button. Then fill in the field "Inject file:" with absolute path to you local file "CustomSilhouette.js", set it to "END of HEAD", with and asterisk (*) characther on the "Address:" field, and check "Enabled" to activate the plugin. Press the "OK" button, then the "Close" button.
+- Refresh your browser.
 - Enjoy!
 
 ##Acknowledgments
