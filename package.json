@@ -1,0 +1,15 @@
+{
+  "name": "VRS-Silhouettes",
+  "version": "1.0.0",
+  "main": "CustomSilhouettes.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "author": "Andre Villela",
+  "license": "MIT",
+  "description": "Custom silhouettes for Virtual Radar Server.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dedevillela/VRS-Silhouettes.git"
+  }
+}
