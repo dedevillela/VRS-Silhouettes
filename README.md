@@ -1,4 +1,5 @@
-# VRS-Silhouettes 🛩️ [![MIT License](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE) [![VRS version 2.4](https://img.shields.io/badge/VRS-v2.4-blue.svg)](http://virtualradarserver.co.uk/Download.aspx) [![Build Status](https://travis-ci.org/dedevillela/VRS-Silhouettes.svg?branch=master)](https://travis-ci.org/dedevillela/VRS-Silhouettes) [![GitHub release](https://img.shields.io/github/release/dedevillela/VRS-Silhouettes.svg)](https://github.com/dedevillela/VRS-Silhouettes/releases)  
+# VRS-Silhouettes 🛩️ [![MIT License](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE) [![VRS version 2.4](https://img.shields.io/badge/VRS-v2.4-blue.svg)](http://virtualradarserver.co.uk/Download.aspx) [![Build Status](https://travis-ci.org/dedevillela/VRS-Silhouettes.svg?branch=master)](https://travis-ci.org/dedevillela/VRS-Silhouettes) [![GitHub release](https://img.shields.io/github/release/dedevillela/VRS-Silhouettes.svg)](https://github.com/dedevillela/VRS-Silhouettes/releases) [![GitHub stars](https://img.shields.io/github/stars/dedevillela/VRS-Silhouettes.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/dedevillela/VRS-Silhouettes/stargazers/)
+
 Custom silhouettes for [Virtual Radar Server](http://www.virtualradarserver.co.uk "Virtual Radar Server's Homepage") (a.k.a. VRS).
 
 ## Prerequisites
